@@ -16,6 +16,7 @@ import flixel.math.FlxRect;
 import flixel.system.FlxSound;
 import flixel.util.FlxSort;
 import flixel.util.FlxTimer;
+import flash.media.Sound;
 import FunkinLua;
 
 using StringTools;
