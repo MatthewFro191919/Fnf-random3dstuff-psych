@@ -61,6 +61,7 @@ import Achievements;
 import StageData;
 import FunkinLua;
 import DialogueBoxPsych;
+import flash.media.Sound;
 
 #if sys
 import sys.FileSystem;
