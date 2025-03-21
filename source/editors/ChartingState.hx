@@ -34,13 +34,13 @@ import haxe.format.JsonParser;
 import lime.utils.Assets;
 import openfl.events.Event;
 import openfl.events.IOErrorEvent;
-import openfl.media.Sound;
 import openfl.net.FileReference;
 import openfl.utils.ByteArray;
 import openfl.utils.Assets as OpenFlAssets;
 import lime.media.AudioBuffer;
 import haxe.io.Bytes;
 import flash.geom.Rectangle;
+import flash.media.Sound;
 #if MODS_ALLOWED
 import sys.io.File;
 import sys.FileSystem;
